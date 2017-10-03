@@ -20,7 +20,7 @@ A operation usually have the following three properties
 > Now the example scenario (our problem may relate with this), (in my opinion the graph can represent any kind of scenario) Say we have following relationship, represented as graph. (resource as nodes, and to reach a particular resource, the visitor always need to traverse to a set of nodes in graph)
 > <readPowerOn, writePowerOn> are the meta deta written on top of a node in the graph
 
-![Graph based role and access scenario](https://github.com/codeofnode/role-and-permission/raw/master/example.png)
+![Graph based role and access scenario](https://github.com/codeofnode/graph-role-permission/raw/master/example.png)
 
 Now to access a resource, There are 4 traversal paths
 
